@@ -1,0 +1,91 @@
+a{
+text-decoration: none;
+
+
+}
+
+nav{ 
+    font-size: 25px;
+    word-spacing: 30px;
+    margin-left: 700px;
+    margin-top: 10px;
+}
+.face{
+    background-image: url(./wood-sideboard-living-room-interior-with-copy-space.jpg);
+    height: 900px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+h3{
+    color: green;
+    text-align: center;
+    padding-top: 300px;
+}
+#za{
+    color: white;
+    font-size: 50px;
+    /* margin-top: 350px; */
+    text-align: center;
+}
+button{
+    border: none;
+}
+
+input{
+    /* box-shadow: -5px -7px 8px -3px rgba(196,187,187,0.75); */
+    border:none ;
+    box-shadow: -4px -3px 5px -1px rgba(110,103,103,1);
+}
+#hello{
+    color: green;
+    padding-top: 5%;
+    text-align: left;
+    margin-left: 100px;
+}
+p{
+    text-align: left;
+    margin-left: 90px;
+}
+.pic{
+    
+    display:flex;
+        /* justify-content: center;
+    align-items: center;
+gap: 6rem; */
+}
+.na{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(./empty-living-room-with-blue-sofa-plants-table-empty-white-wall-background-3d-rendering.jpg);
+     height: 800px;
+    
+}
+.na{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bye{
+    margin-right: 550px;
+}
+.mun{
+    display: flex;
+    gap: 20px;
+    margin-left: 50px;
+}
+.aya{
+    background-color:  #36363e;
+    height: 500px;
+    margin-top: 50px;
+    color: white;
+    /* display: flex;
+    justify-content: center;
+    align-items: center;    */
+}
+.x{ display: flex;
+    justify-content: center;
+    align-items: center; 
+padding-top: 100px;
+}
