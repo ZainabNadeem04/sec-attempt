@@ -1,3 +1,47 @@
-@tailwind base;
+/* @tailwind base;
 @tailwind components;
-@tailwind utilities;
+@tailwind utilities; */
+li {
+    
+    cursor: pointer;
+    background-color: azure;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 50px;
+    /* margin-left: 200px;
+    padding-right: 200px; */
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    
+}
+.List {
+    /* text-align: center; */
+    align-items: center;
+    justify-content: center;
+}  
+   
+
+li:hover{
+    background-color: aquamarine;
+}
+.selected {
+    background-color: #b3e5fc;
+  }
+  
+  .button{
+    background-color: #0dbc72;
+    border-radius: 20px;
+    width: 20%;
+    cursor: pointer;
+  }
+  .button-disable{
+    border-radius: 20px;
+    width: 20%;
+    cursor: not-allowed;
+  }
+  .App {
+    text-align: center;
+  }
+  
